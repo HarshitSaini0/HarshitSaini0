@@ -31,7 +31,7 @@ Feel free to reach out if you have any questions or want to chat about web dev, 
 *   Reach out to me via email: Harshit.Saini.ngh@gmail.com
 
 ---
-
+<!---
 **Emojis and Animations:**
 
 I've incorporated some fun emojis throughout the text to add personality. You can add additional animations using tools like animated GIFs or CSS animations, but be mindful not to overdo it and maintain a clean and professional feel.
@@ -46,3 +46,4 @@ Feel free to customize this template further by adding:
 * Call to action buttons like "Get in Touch" or "Star My Repos"
 
 Remember, this is your space to showcase your skills and personality, so get creative!
+--->
