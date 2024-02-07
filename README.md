@@ -1,4 +1,4 @@
-# Harshit: Web Dev & DSA Enthusiast 
+# Harshit: Web Dev & DSA Enthusiast 🖐️
 
 Hi there!  I'm Harshit, an 18-year-old student passionate about web development and honing my skills in Data Structures & Algorithms (DSA). 
 
@@ -28,8 +28,7 @@ Feel free to reach out if you have any questions or want to chat about web dev, 
 **Cool Stuff:**
 
 *  I'm currently using GitHub stars to fuel my coffee addiction. ☕️
-*   Reach out to me via email: [Insert Harshit's email address here] (optional)
-*  Connect with me on social media: [Insert social media links here] (optional)
+*   Reach out to me via email: Harshit.Saini.ngh@gmail.com
 
 ---
 
