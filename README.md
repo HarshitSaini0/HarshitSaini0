@@ -24,6 +24,4 @@ Peer Tutor and Lab Monitor at UFV: helping students with CS and CIS courses.
 
 LinkedIn: https://linkedin.com/in/devharshitsaini
 
-YouTube: https://youtube.com/@harshit-saini-b
-
 Looking for software development co-op opportunities, and open to relocating.
